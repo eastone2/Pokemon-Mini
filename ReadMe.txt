@@ -9,9 +9,6 @@ ____________________________________________________________How to run__________
 1. Install Python - https://www.python.org/downloads/
 2. Install PIL/Pillow and Requests - https://www.cs.cmu.edu/~112/notes/notes-animations-part4.html#installingModules
 3. Run the python file called 'Pokemon Mini'
-	1. Unzip Folder
-	2. Open folder called 'Pokemon'
-	3. Find python file called 'Pokemon Mini'
 
 ____________________________________________________________Keybinds________________________________________________________________
 ----All----
