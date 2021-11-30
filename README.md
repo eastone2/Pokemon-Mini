@@ -32,7 +32,7 @@ G - Close pc
 M - Show path\
 U - Ghost mode (Go through all walls)
 
-#### In Battle
+#### Battle
 1 - Move 1\
 2 - Move 2\
 3 - Move 3\
