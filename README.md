@@ -1,4 +1,4 @@
------------------------------------------------------Pokemon Mini-----------------------------------------------------
+--------------------------------------------------------Pokemon Mini--------------------------------------------------------
 Pokemon Mini is a replication of the popular game, Pokemon. It will not necessarily be a specific copy of a version of Pokemon but a replication of the general experience. The user will be able to walk around, gather pokemon, and interact with a few objects. There will be two buildings, one will be to check the status of pokemons and heal and the other will be a building with mazes and battles. The battle will involve a Minimax AI that will choose the best moves within its ability and there will be a button that shows the solution to the maze using BFS Algorithm.
 
 --------------------------------------------How to run--------------------------------------------
