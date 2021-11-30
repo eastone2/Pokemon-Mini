@@ -25,7 +25,7 @@ F - Interact
 #### Outside
 Space - Leave conversation with girl
 
-#### In Center
+#### Center
 G - Close pc
 
 #### Gym
