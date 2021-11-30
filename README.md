@@ -1,1 +1,1 @@
-Please open ReadMe.txt for instructions on running the game and playing the game
+Please open ReadMe.txt for description and instructions on running the game
