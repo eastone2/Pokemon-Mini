@@ -27,7 +27,7 @@ Space - Leave conversation with girl
 -In Center
 G - Close pc
 
--n Gym
+-In Gym
 M - Show path
 U - Ghost mode (Go through all walls)
 
